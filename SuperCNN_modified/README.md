@@ -6,6 +6,10 @@ This is the instruction for model training with the codes under directory "super
 1. Firstly, under the vitual environment for TensorFlow, install the Keras with: 
    
          pip install keras
+	 
+   (!) If the you execute the python codes and tell you missed the package "skimage", install the scikit-image: 
+   
+         pip install scikit-image
    
    
 2. The necessary codes are place in the directory "SuperCNN_modified".
